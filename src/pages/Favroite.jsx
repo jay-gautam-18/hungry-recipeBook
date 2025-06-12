@@ -2,7 +2,7 @@
 import Conatiner from "../components/Conatiner";
 import Navhome from "../components/Navhome";
 import recipebg from "../assets/recipebg.jpg"
-import Homeimage from "../components/homeImage";
+import Homeimage from "../components/Homeimages";
 import FootHome from "../components/FootHome";
 import RecipeCard from "../components/RecipeCard";
 import { useContext } from "react";

@@ -3,7 +3,7 @@ import Navhome from "../components/Navhome";
 import Conatiner from "../components/Conatiner";
 import FootHome from "../components/FootHome";
 import aboutbg from "../assets/aboutbg.jpg"
-import Homeimage from "../components/homeImage";
+import Homeimage from "../components/Homeimages";
 const About = () => {
     return <div  className="h-screen pt-30 flex justify-center overflow-hidden items-center w-full" >
         <Homeimage/>

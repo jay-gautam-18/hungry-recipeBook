@@ -1,7 +1,7 @@
 import createbg from "../assets/createbg.jpg"
 import Conatiner from "../components/Conatiner";
 import FootHome from "../components/FootHome";
-import Homeimage from "../components/homeImage";
+import Homeimage from "../components/Homeimages";
 import Navhome from "../components/Navhome";
 import Recipeform from "../components/Recipeform";
 const Create = () => {
